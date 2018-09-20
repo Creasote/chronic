@@ -1,0 +1,29 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=iSecure2.0_2018
+*Date=00:24:22
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;68.9315;-15.5434;-90;Bottom;LIGHT SENSOR
+2;9V;;9.24148;-47.2934;-90;Bottom;VCC1
+3;10k;THT;40.9915;-32.0534;-90;Bottom;R3 A
+4;;THT;58.7715;-15.5434;-90;Bottom;DOOR SW
+5;;dil14;29.5615;-29.5134;90;Bottom;NE556N
+6;;5 mm [THT];40.9915;-46.6422;180;Bottom;LED A
+7;150k;THT;13.0515;-32.0534;-90;Bottom;R2 A
+8;47µF;100 mil [THT, electrolytic];13.0515;-23.1634;-90;Bottom;C1 A
+9;150k;THT;18.1315;-42.2134;90;Bottom;R1 A
+10;1k;THT;63.8515;-32.0534;180;Bottom;R3 B
+11;;TO92 [THT];71.3826;-39.8639;90;Bottom;BJT2
+12;;TO92 [THT];51.0626;-32.2439;90;Bottom;BJT1
+13;;;51.1515;-46.0234;180;Bottom;BUZZER
+14;10k;THT;81.6315;-34.5934;-90;Bottom;R5 B
